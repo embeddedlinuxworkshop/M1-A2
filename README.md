@@ -40,8 +40,28 @@ Downloads/
 |   |-- file6.unknown
 ```
 
+************************************************************************************************************************************************************
+
+## **Let's take about the algorithm:**
+
+we can divide the algorithm of the script into 4 parts:
+
+- Geting the path of the directory we wnat to organize.
+- Creating the sub-directories to organize the files and put them inside the sub-directories.
+- Organize the files and put them inside the sub-directories.
+- List the sub-directories and the files as a way of verfication to make sure that the algorithm is working as required.
+
+To-do that, I create four functions for each part:
+
+- GetPath 
+- MK_DIRS 
+- OrganizeFiles 
+- LS_DIRS
+
+## **The design:**
+
+![image](https://github.com/Ali-Elbana/M1-A2/assets/97269796/0d6e38f5-ef6e-4f29-bb02-ca72478ac794)
 
 
 
-## How to upload task on github.
-- Please refer to explanation video that has been sent through email.
+
