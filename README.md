@@ -46,12 +46,14 @@ Downloads/
 
 we can divide the algorithm of the script into 4 parts:
 
+
 1-Geting the path of the directory we wnat to organize.
 2-Creating the sub-directories to organize the files and put them inside the sub-directories.
 3-Organize the files and put them inside the sub-directories.
 4-List the sub-directories and the files as a way of verfication to make sure that the algorithm is working as required.
 
 To-do that, I create four functions for each part:
+
 
 1-GetPath 
 2-MK_DIRS 
