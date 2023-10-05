@@ -58,6 +58,10 @@ To-do that, I create four functions for each part:
 - OrganizeFiles 
 - LS_DIRS
 
+## **The design:**
+
+![image](https://github.com/Ali-Elbana/M1-A2/assets/97269796/0d6e38f5-ef6e-4f29-bb02-ca72478ac794)
+
 
 
 
